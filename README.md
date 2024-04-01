@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Habhijeet
+- 👋 Hi, I’m @H.abhijeet
 - 👀 I’m interested in research 
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on 
